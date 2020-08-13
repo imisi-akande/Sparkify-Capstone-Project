@@ -32,8 +32,8 @@ sparkify.ipynb - A notebook with all the preprocessing, feature engineering and 
 Four models were trained on the dataset. The models are Logistic Regression, Random Forest, Support Vector Machines and Gradient Boosted Trees respectively. The models were evaluated and Random Forest outperformed the rest by a large margin in terms of the F1 score plus timely execution. So, Random Forest was selected for improvement by hyper-parameter tuning.
 
 The final metrics for the tuned Random Forest Classifier are as follows:
-The F-1 Score is 0.8499999999999999
-The accuracy is 0.8666666666666667
+- The F-1 Score is 0.8499999999999999
+- The accuracy is 0.8666666666666667
 
 In the end, the most important features for the prediction of churned users were also selected.
 

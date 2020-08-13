@@ -1,6 +1,7 @@
 # Sparkify-Capstone-Project
 A project to early detect when a Sparkify user is likely to churn. Check my
-blogpost for a detailed analysis.
+[blogpost](https://medium.com/@imizezek/predicting-churn-users-for-sparkify-with-apache-pyspark-5e26a8b50789)
+ for a detailed analysis.
 
 ### Table of Contents
 1. [Dependencies](#dependencies)
@@ -38,4 +39,4 @@ The final metrics for the tuned Random Forest Classifier are as follows:
 In the end, the most important features for the prediction of churned users were also selected.
 
 ### Acknowledgements<a name="acknowledgements"></a>
-I appreciate Udatcity for the project and Data support
+I appreciate Udacity for the project and Data support
